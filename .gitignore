@@ -1,0 +1,56 @@
+# -----------------------------
+# System Files
+# -----------------------------
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# -----------------------------
+# Log and Temporary Files
+# -----------------------------
+*.log
+*.tmp
+*.bak
+*.old
+tmp/
+
+# -----------------------------
+# Packet Tracer Specific (if applicable)
+# -----------------------------
+# Uncomment if you want to ignore Packet Tracer backup files (adjust extension as needed)
+# *.pkt~
+
+# -----------------------------
+# Environment Files (if used)
+# -----------------------------
+.env
+config.local
+
+# -----------------------------
+# Build or Distribution Directories (if any)
+# -----------------------------
+build/
+dist/
+
+# -----------------------------
+# Node Modules (if applicable for additional documentation tools)
+# -----------------------------
+node_modules/
+
+# -----------------------------
+# Coverage Reports (if any)
+# -----------------------------
+coverage/
+
+
+
+# media
+/media/
