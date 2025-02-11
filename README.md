@@ -1,5 +1,5 @@
 # Cisco-Packet-Tracer-100-Project-Journey
-# Networking Mastery with Cisco Packet Tracer: From Basics to Enterprise-Level Projects
+Networking Mastery with Cisco Packet Tracer: From Basics to Enterprise-Level Projects
 
 ## Overview
 This repository documents my journey toward mastering networking through practical projects using Cisco Packet Tracer. Over the course of this journey, I have completed 100 carefully curated projects that range from foundational connectivity exercises (Level 0) to advanced, enterprise-scale network challenges (Hero-level). Each project was designed to build on the previous one, ensuring a solid understanding of topics such as basic switching and routing, inter-VLAN routing, dynamic routing protocols, NAT, VPNs, and much more.
