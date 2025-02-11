@@ -113,25 +113,3 @@ Establish a direct, peer-to-peer connection between two PCs using Cisco Packet T
 
 ## 7. Conclusion
 The project successfully established a direct PC-to-PC connection without the use of intermediary networking devices. The configuration and testing confirmed that the two PCs could communicate reliably using static IP addresses. This foundational exercise has provided a clear understanding of basic networking principles, which will serve as a stepping stone for more advanced projects.
-
-
-
-
-
-
----------
-خلصت أول مهمة من Cisco 100-Project Journey، وحبيت أشارككم تجربة غريبة ومفيدة حصلتلي في معمل الشبكات امبارح. بصراحة، اتعلمت حاجتين مهمين جدًا خلال التجربة، وأهمهم هو أهمية الـ documentation.
-
-في المعمل، كنا متقسمين على تيمات، وكل تيم شغال على توبولوجي محددة بتتكون من 3 أجزاء: اتنين سويتش وراوتر واحد، وكل جزء عليه اتنين. بدأنا أول حاجة برسم network diagram على Packet Tracer من غير أي إعدادات أو تخصيص لـ IP addresses. يعني رسمنا المخطط على الورق الإلكتروني.
-
-بعد كده بدأنا الشغل. في البداية كان كله تمام، لكن مع الوقت، كل واحد بدأ يشتغل من دماغه ويحط إعداداته الخاصة. مثلاً، أنا ضبيت الكابل على بورت معين وضبطت الـ VLAN، وفي نفس الوقت واحد من زمايلي غيّر البورت بتاعه لأنه مش عاجبه مكانه. النتيجة كانت إن الأجهزة مبقتش تتواصل مع بعض، ومافيش واحد يقدر يعمل ping للجهاز التاني.
-
-اللي حصل خلاني أستوعب قد إيه إن الـ documentation (توثيق كل خطوة) ضروري جداً! لما يكون عندنا توثيق موحد وواضح، نقدر نتجنب اللبس والتصرفات الفردية اللي ممكن تعطل الشبكة. وفي الآخر، ظهر الأستاذ وسيطر على الموقف ورتب الأمور.
-
-المغزى:
-التوثيق مش بس ورقة على المكتب، ده مفتاح تنظيم الشغل والتأكد إن كل الأعضاء ماشية في نفس الاتجاه.
-وبالمناسبة، لو في أي معلومة مش مظبوطة أو محتاجين إضافة حاجة، شات جي بي تي جاهز يصلح ويبلغكم.
-
-أنا متحمس أكمل المشوار وأتعلم أكتر، وإن شاء الله دايمًا نكون منظمين في كل خطوة.
-
-#Networking #Cisco #Documentation #LearningJourney #CiscoProjects
