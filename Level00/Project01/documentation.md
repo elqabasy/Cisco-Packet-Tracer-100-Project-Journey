@@ -14,7 +14,7 @@ Establish a direct, peer-to-peer connection between two PCs using Cisco Packet T
 ## 2. Network Diagram
 *Insert your network diagram image below (e.g., exported from Cisco Packet Tracer, Visio, or any diagramming tool):*
 
-![Network Diagram](path/to/your/network-diagram.png)
+![Network Diagram](./network-diagram.png)
 
 **Diagram Description:**  
 - The diagram shows two PCs connected directly by a cable.  
